@@ -1,3 +1,19 @@
 {
-  "dependencies": {}
+  "dependencies": {
+    "com.unity.code-analysis": {
+      "version": "0.1.2-preview",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ide.monodevelop": {
+      "version": "file:W:/Github/com.unity.ide.monodevelop-2.3.1.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.code-analysis": "0.1.2-preview"
+      }
+    }
+  }
 }
