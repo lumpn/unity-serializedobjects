@@ -9,6 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d393fe4e83c5c24cb51c027a95a05c8, type: 3}
-  m_Name: MessageLoggerObject2
+  m_Script: {fileID: 11500000, guid: a0db225b06cc09542bbf682ca604bf67, type: 3}
+  m_Name: HotReloadIntObject
   m_EditorClassIdentifier: 
